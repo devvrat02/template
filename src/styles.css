@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+    font-family: "Work Sans";
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.custom-background {
+    background: -webkit-linear-gradient(top, #e8fbfb 50%, #FFF 50%);
+}
