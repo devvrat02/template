@@ -1,4 +1,5 @@
 import { Logow } from '../../Assets/img/svg'
+// footer of the website is described here
 function FooterSection() {
   return (
     <div className='h-36 bg-primary w-full flex items-center'>

@@ -1,5 +1,5 @@
 import React from 'react'
-
+// feature showing a image , title and description
 function Feature({ imgsrc = {}, title = ``, desc = `` }) {
     return (
         <div>

@@ -1,4 +1,5 @@
 import about from '../../Assets/img/jpg/multor-about.jpg'
+// About Section is described here
 function AboutSection() {
     return (
         <div className="w-11/12 sm:w-10-12 m-auto my-20">

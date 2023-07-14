@@ -2,6 +2,7 @@ import { Feature } from '../../Components'
 import feature1 from '../../Assets/img/jpg/multor-feature1.jpg'
 import feature2 from '../../Assets/img/jpg/multor-feature2.jpg'
 import feature3 from '../../Assets/img/jpg/multor-feature3.jpg'
+// feature are decribed here 
 function FeatureSection() {
   const feat = [{
     imgsrc: feature1,

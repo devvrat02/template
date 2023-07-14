@@ -3,6 +3,7 @@ import Testimony1 from '../../Assets/img/jpg/multor-testimonial1.jpg'
 import Testimony2 from '../../Assets/img/jpg/multor-testimonial2.jpg'
 import { Stars } from "../../Assets/img/svg";
 
+// Rating Section  Showing the Testimonies
 function RatingSection() {
   return (
     <div className="w-11/12 sm:w-10/12 m-auto flex flex-col sm:flex-row mb-4">

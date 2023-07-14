@@ -1,5 +1,6 @@
 import { Logo } from '../../Assets/img/svg'
 import background1 from "../../Assets/img/jpg/multor-heroshot.jpg"
+// Header Section Little brief about the page
 function HeaderSection() {
   return (
     <div className={`h-screen w-screen bg-no-repeat bg-left bg-cover sm:bg-center `} style={{ backgroundImage: `url(${background1})` }}>
