@@ -55,10 +55,10 @@ These are the Custumized to use it repeatively.
 Saved in ProjectDemo Folder
 
 ## Technology Used / library
-**`JavaScript:`**  `language used to build the webapplication`
-**`React:`**  `library used in application`
-**`TailwindCss:`**  `css used to design UI/UX `
-**`react-form-hook:`** `libary used to build Appointment Form`
+**`JavaScript:`**  `language used to build the webapplication` <br>
+**`React:`**  `library used in application` <br>
+**`TailwindCss:`**  `css used to design UI/UX ` <br>
+**`react-form-hook:`** `libary used to build Appointment Form` <br>
 
 ## **Setup / Installation**
 ##### Clone the repo
