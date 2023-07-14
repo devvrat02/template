@@ -8,6 +8,7 @@ import {
   AboutSection,
   FooterSection,
 } from "./Sections";
+// Breaked the website in chunks of section
 export default function App() {
   return (
     <div className="App">

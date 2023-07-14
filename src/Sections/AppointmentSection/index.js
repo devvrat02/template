@@ -1,5 +1,6 @@
 import { ScheduleForm, Benefit } from "../../Components";
 import { Benifit1, Benifit2, Benifit3 } from '../../Assets/img/svg'
+// Appointment section in that benifit and schedule form is call.
 function AppointmentSection() {
   return (
     <div className='w-11/12 sm:w-10/12 m-auto'>

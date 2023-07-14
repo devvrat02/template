@@ -1,5 +1,5 @@
 import React from 'react'
-
+// Rating component  can be used repetively
 function Rating({ stars = () => { }, img, comment = ``, location = ``, name = `` }) {
 
     return (

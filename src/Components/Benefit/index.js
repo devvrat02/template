@@ -1,5 +1,5 @@
 import React from 'react'
-
+// Benefit component this can help call a function repeatively 
 function Benefit({ img = () => { }, title = '', description = '' }) {
     return (
         <div className='flex w-11/12'>

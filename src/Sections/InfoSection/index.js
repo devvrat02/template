@@ -1,4 +1,5 @@
 import item from '../../Assets/video.webp'
+// Information section can add video 
 function InfoSection() {
   return (
     <div className="custom-background  flex flex-col items-center mt-10">
