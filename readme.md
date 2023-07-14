@@ -53,12 +53,13 @@ These are the Custumized to use it repeatively.
 
 ## ScreenShots
 Saved in ProjectDemo Folder
+` Image is  not compress so could take time in readme not added.`
 
 ## Technology Used / library
-**`JavaScript:`**  `language used to build the webapplication` <br>
-**`React:`**  `library used in application` <br>
-**`TailwindCss:`**  `css used to design UI/UX ` <br>
-**`react-form-hook:`** `libary used to build Appointment Form` <br>
+**`JavaScript:`**  `language used to build the webapplication`
+**`React:`**  `library used in application`
+**`TailwindCss:`**  `css used to design UI/UX `
+**`react-form-hook:`** `libary used to build Appointment Form`
 
 ## **Setup / Installation**
 ##### Clone the repo
